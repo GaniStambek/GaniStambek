@@ -1,8 +1,7 @@
+![MemorableBogusArabianoryx-size_restricted](https://user-images.githubusercontent.com/124422266/222565953-4866e4d0-168a-4c5d-9a24-d3d93fb18b62.gif)
 <h1 align="center">Hi 👋, I'm Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 - ![mongolian-riding-lessons](https://user-images.githubusercontent.com/124422266/222562672-b52371e5-19d8-4cb5-8d36-eb9163f25fb0.gif)
-
-![Qazaq_Nomad_QA Software_Engineer (1)](https://user-images.githubusercontent.com/124422266/222557679-7c2623c3-c94f-4189-8d53-f4246baaf9eb.png)
 
 
 <p align="left"> <img src="https://media.tenor.com/l9fh4ZmDHIsAAAAd/mongolian-riding-lessons.gif" alt="ganistambek" /> </p>
