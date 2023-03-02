@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg">
 </p>
 
-- 🔭 I’m currently working on [Qalaisyn](qalaisyn.world)
+- 🔭 I’m currently working on [Qalaisyn](https://qalaisyn.world/)
 
 - 🌱 I’m currently learning **QA Silicone Valley, bootcamp**
 
