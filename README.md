@@ -1,3 +1,4 @@
+![mongolian-riding-lessons (1)](https://user-images.githubusercontent.com/124422266/222569108-ae5d1e70-833d-4e54-8ad5-bf002760be26.gif)
 <h1 align="center">Hi 👋, I'm Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 
