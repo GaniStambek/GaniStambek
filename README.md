@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Qalaisyn](https://qalaisyn.world/)
 <p align="center"> 
-  <img width="110" height="150" src="https://user-images.githubusercontent.com/124422266/222590151-ef1f6469-9863-4883-8e1b-f3600b8faf5d.JPG">
+  <img width="150" height="130" src="https://user-images.githubusercontent.com/124422266/222590151-ef1f6469-9863-4883-8e1b-f3600b8faf5d.JPG">
   <img width="110" height="150" src="https://user-images.githubusercontent.com/124422266/222587441-a04efa50-ebe2-4177-98d3-dc0f4c4fc587.gif">
 </p>
 
@@ -34,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganistambek&show_icons=true&locale=en" alt="ganistambek" /></p>
 
-![DA16D66C-7BCE-4C0F-8BDF-9B7A7F988AF7](https://user-images.githubusercontent.com/124422266/222590151-ef1f6469-9863-4883-8e1b-f3600b8faf5d.JPG)
