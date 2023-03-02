@@ -1,3 +1,4 @@
+![sportsmanias-animated-emojis](https://user-images.githubusercontent.com/124422266/222587441-a04efa50-ebe2-4177-98d3-dc0f4c4fc587.gif)
 <h1 align="center">Hi 👋, my name is Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 <p align="center">
@@ -5,6 +6,10 @@
 </p>
 
 - 🔭 I’m currently working on [Qalaisyn](https://qalaisyn.world/)
+<p align="right">
+  <img width="30" height="60" src="https://user-images.githubusercontent.com/124422266/222587441-a04efa50-ebe2-4177-98d3-dc0f4c4fc587.gif">
+</p>
+
 
 - 🌱 I’m currently learning **QA Silicone Valley, bootcamp**
 
