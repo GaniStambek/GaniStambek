@@ -1,3 +1,5 @@
+![Qazaq_Nomad_QA Software_Engineer (1)](https://user-images.githubusercontent.com/124422266/222561229-7e5e9e7e-2108-47a1-9416-59449037e9aa.png)
+![cute-dog-ear-flapping-v1bh1kx98vhnj0su](https://user-images.githubusercontent.com/124422266/222561290-449f348f-7c4e-4f61-b0c5-65f1a1f93f4d.gif)
 <h1 align="center">Hi 👋, I'm Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 ![Qazaq_Nomad_QA Software_Engineer (1)](https://user-images.githubusercontent.com/124422266/222557679-7c2623c3-c94f-4189-8d53-f4246baaf9eb.png)
