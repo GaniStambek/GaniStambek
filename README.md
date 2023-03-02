@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gani</h1>
-<h3 align="center">Qazaq QA Software Nomad Engineer</h3>
-![800x450](https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg)
+                      <h1 align="center">Hi 👋, I'm Gani</h1>
+                   <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 
-
-<img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg" width="1000" height="400">
+<img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg">
 
 <p align="left"> <img src="https://media.tenor.com/l9fh4ZmDHIsAAAAd/mongolian-riding-lessons.gif" alt="ganistambek" /> </p>
 
