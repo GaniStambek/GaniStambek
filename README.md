@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
+![This is an image](https://banner.godori.dev/)
+
 
 <p align="left"> <img src="https://media.tenor.com/l9fh4ZmDHIsAAAAd/mongolian-riding-lessons.gif" alt="ganistambek" /> </p>
 
