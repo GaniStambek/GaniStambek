@@ -11,10 +11,11 @@
 
 - 📫 How to reach me **Gani1stambek@gmail.com**
 
-- ⚡ Fun fact **I can move my ears )** ![cute-dog-ear-flapping-v1bh1kx98vhnj0su](https://user-images.githubusercontent.com/124422266/222573178-b7dd8a6f-6c94-4c93-9160-05de5c009ba7.gif)
-- 
+- ⚡ Fun fact **I can move my ears )** 
+![cute-dog-ear-flapping-v1bh1kx98vhnj0su](https://user-images.githubusercontent.com/124422266/222573178-b7dd8a6f-6c94-4c93-9160-05de5c009ba7.gif)
+
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/124422266/222573178-b7dd8a6f-6c94-4c93-9160-05de5c009ba7.gif">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/124422266/222573178-b7dd8a6f-6c94-4c93-9160-05de5c009ba7.gif">
 </p>
 
 
