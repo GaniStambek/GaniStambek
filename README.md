@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤖 my name is Gani</h1>
+<h1 align="center">Welcome to 🤖 Gani's World</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg">
