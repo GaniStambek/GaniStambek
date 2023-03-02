@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Qalaisyn](https://qalaisyn.world/)
 <p align="right">
-  <img width="60" height="120" src="https://user-images.githubusercontent.com/124422266/222587441-a04efa50-ebe2-4177-98d3-dc0f4c4fc587.gif">
+  <img width="90" height="150" src="https://user-images.githubusercontent.com/124422266/222587441-a04efa50-ebe2-4177-98d3-dc0f4c4fc587.gif">
 </p>
 
 
