@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 
-<img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg"=left" width="200" height="200" >
+<img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg">
 
 <p align="left"> <img src="https://media.tenor.com/l9fh4ZmDHIsAAAAd/mongolian-riding-lessons.gif" alt="ganistambek" /> </p>
 
@@ -11,8 +11,11 @@
 
 - 📫 How to reach me **Gani1stambek@gmail.com**
 
-- ⚡ Fun fact **I can move my ears )**
-- <img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/124422266/222561290-449f348f-7c4e-4f61-b0c5-65f1a1f93f4d.gif/100/100">
+- ⚡ Fun fact **I can move my ears )** ![cute-dog-ear-flapping-v1bh1kx98vhnj0su](https://user-images.githubusercontent.com/124422266/222573178-b7dd8a6f-6c94-4c93-9160-05de5c009ba7.gif)
+- 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/124422266/222573178-b7dd8a6f-6c94-4c93-9160-05de5c009ba7.gif">
+</p>
 
 
 
