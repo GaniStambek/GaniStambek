@@ -12,9 +12,7 @@
 - 📫 How to reach me **Gani1stambek@gmail.com**
 
 - ⚡ Fun fact **I can move my ears )**
-- ![cute-dog-ear-flapping-v1bh1kx98vhnj0su](https://user-images.githubusercontent.com/124422266/222561290-449f348f-7c4e-4f61-b0c5-65f1a1f93f4d.gif)class="center"
-
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/124422266/222561290-449f348f-7c4e-4f61-b0c5-65f1a1f93f4d.gif/100/100">
+- <img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/124422266/222561290-449f348f-7c4e-4f61-b0c5-65f1a1f93f4d.gif/100/100">
 
 
 
