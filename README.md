@@ -3,7 +3,7 @@
 ![800x450](https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg)
 
 
-<img src="https://user-images.githubusercontent.com/124422266/222569108-ae5d1e70-833d-4e54-8ad5-bf002760be26.gif" width="1000" height="400">
+<img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg" width="1000" height="400">
 
 <p align="left"> <img src="https://media.tenor.com/l9fh4ZmDHIsAAAAd/mongolian-riding-lessons.gif" alt="ganistambek" /> </p>
 
