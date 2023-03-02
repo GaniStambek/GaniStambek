@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
-![This is an image](https://banner.godori.dev/)
+![Qazaq_Nomad_QA Software_Engineer (1)](https://user-images.githubusercontent.com/124422266/222557679-7c2623c3-c94f-4189-8d53-f4246baaf9eb.png)
 
 
 <p align="left"> <img src="https://media.tenor.com/l9fh4ZmDHIsAAAAd/mongolian-riding-lessons.gif" alt="ganistambek" /> </p>
