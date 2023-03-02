@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganistambek&label=Profile%20views&color=0e75b6&style=flat" alt="ganistambek" /> </p>
+<p align="left"> <img src="https://media.tenor.com/l9fh4ZmDHIsAAAAd/mongolian-riding-lessons.gif" alt="ganistambek" /> </p>
 
 - 🔭 I’m currently working on [Qalaisyn](qalaisyn.world)
 
