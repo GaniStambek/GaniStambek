@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 
-<img src="(https://user-images.githubusercontent.com/124422266/222569108-ae5d1e70-833d-4e54-8ad5-bf002760be26.gif)" width="1000" height="400">
+<img src="https://user-images.githubusercontent.com/124422266/222569108-ae5d1e70-833d-4e54-8ad5-bf002760be26.gif" width="1000" height="400">
 
 <p align="left"> <img src="https://media.tenor.com/l9fh4ZmDHIsAAAAd/mongolian-riding-lessons.gif" alt="ganistambek" /> </p>
 
