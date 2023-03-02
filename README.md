@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, my name is Gani</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
-
-<img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg">
-
-<p align="left"> <img src="https://media.tenor.com/l9fh4ZmDHIsAAAAd/mongolian-riding-lessons.gif" alt="ganistambek" /> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg">
+</p>
 
 - 🔭 I’m currently working on [Qalaisyn](qalaisyn.world)
 
@@ -12,8 +11,6 @@
 - 📫 How to reach me **Gani1stambek@gmail.com**
 
 - ⚡ Fun fact **I can move my ears )** 
-![cute-dog-ear-flapping-v1bh1kx98vhnj0su](https://user-images.githubusercontent.com/124422266/222573178-b7dd8a6f-6c94-4c93-9160-05de5c009ba7.gif)
-
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/124422266/222573178-b7dd8a6f-6c94-4c93-9160-05de5c009ba7.gif">
 </p>
