@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg">
 </p>
 
-- 🔭 I’m currently working on [Qalaisyn](https://qalaisyn.world/)
+- 🔭 I’m currently working on [Qalaisyn](https://qalaisyn.world/) Kazakh dating & networking webapp.
 <p align="center"> 
   <img width="150" height="130" src="https://user-images.githubusercontent.com/124422266/222590151-ef1f6469-9863-4883-8e1b-f3600b8faf5d.JPG">
   <img width="110" height="150" src="https://user-images.githubusercontent.com/124422266/222587441-a04efa50-ebe2-4177-98d3-dc0f4c4fc587.gif">
