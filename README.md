@@ -3,6 +3,16 @@
 <!--
 **GaniStambek/GaniStambek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+
+
+Fun Fact:
+
+I can 
+
+![image](https://user-images.githubusercontent.com/124422266/222317651-2243df9c-b480-4582-bac6-07424ba9b927.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
