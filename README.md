@@ -28,5 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganistambek&show_icons=true&locale=en" alt="ganistambek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganistambek&" alt="ganistambek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganistambek&" alt="ganistambek" /></p>![mongolian-riding-lessons](https://user-images.githubusercontent.com/124422266/222561676-f74d4d7f-e52d-4299-ab43-b31933badcea.gif)
+
 
