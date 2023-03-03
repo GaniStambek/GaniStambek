@@ -15,7 +15,7 @@
 
   💬 Before worked for [NoMADs Corp](https://t.me/nomadsfamilyusa) **Chat groups on Telegram for Immigrant Community in the USA.**
 <p align="center"> 
-  <img width="300" height="150" src="https://user-images.githubusercontent.com/124422266/222639684-6c47717d-cfd2-4079-ba4d-2123829d0315.gif">
+  <img width="300" height="190" src="https://user-images.githubusercontent.com/124422266/222639684-6c47717d-cfd2-4079-ba4d-2123829d0315.gif">
 </p>
   🌱 I’m currently studying at **QA Silicone Valley, bootcamp** 📚
 
