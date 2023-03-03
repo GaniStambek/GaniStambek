@@ -9,7 +9,7 @@
 <a href="https://qalaisyn.world/"><img src="https://user-images.githubusercontent.com/124422266/222590151-ef1f6469-9863-4883-8e1b-f3600b8faf5d.JPG">
 
   
-<a href= width="130" height="150""https://qalaisyn.world/"><img src="https://user-images.githubusercontent.com/124422266/222590151-ef1f6469-9863-4883-8e1b-f3600b8faf5d.JPG">
+<a href width="130" height="150""https://qalaisyn.world/"><img src="https://user-images.githubusercontent.com/124422266/222590151-ef1f6469-9863-4883-8e1b-f3600b8faf5d.JPG">
   
 - 🦾 I’m currently working on [Qalaisyn](https://qalaisyn.world/) **Kazakh dating & networking webapp.**
 <p align="center"> 
