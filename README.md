@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to 🤖 <img width="40" height="70" src="https://user-images.githubusercontent.com/124422266/222640385-7823dbf1-faa8-4164-8b51-3c96db5f4712.gif"> Gani's World</h1>
+<h1 align="center">Welcome to <img width="30" height="60" src="https://user-images.githubusercontent.com/124422266/222640385-7823dbf1-faa8-4164-8b51-3c96db5f4712.gif"> Gani's World</h1>
 <h3 align="center">Qazaq QA Software Nomad Engineer</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/124422266/222570609-4c2230c8-46c0-4924-bc31-8091a3302ea7.jpg">
