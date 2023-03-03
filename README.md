@@ -6,19 +6,19 @@
   
 <h5 align="center">
   
-- 🦾 I’m currently working on[Qalaisyn](https://qalaisyn.world/) **Kazakh dating & networking webapp.**
+  🦾 I’m currently working on[Qalaisyn](https://qalaisyn.world/) **Kazakh dating & networking webapp.**
 <p align="center"> 
   <img width="130" height="150" src="https://user-images.githubusercontent.com/124422266/222587441-a04efa50-ebe2-4177-98d3-dc0f4c4fc587.gif">
   <img alt="alt_text" width="150px" src="https://user-images.githubusercontent.com/124422266/222590151-ef1f6469-9863-4883-8e1b-f3600b8faf5d.JPG"/>
 </p>
 
-- 💬 Before worked for [NoMADs Corp](https://t.me/nomadsfamilyusa) **Chat groups on Telegram for Immigrant Community in the USA.**
+  💬 Before worked for [NoMADs Corp](https://t.me/nomadsfamilyusa) **Chat groups on Telegram for Immigrant Community in the USA.**
 
-- 🌱 I’m currently studying at **QA Silicone Valley, bootcamp** 📚
+  🌱 I’m currently studying at **QA Silicone Valley, bootcamp** 📚
 
-- 📫 How to reach me **Gani1stambek@gmail.com**
+  📫 How to reach me **Gani1stambek@gmail.com**
 
-- ⚡ Fun fact **I can move my ears )** 👂
+  ⚡ Fun fact **I can move my ears )** 👂
 </h5>
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/124422266/222573178-b7dd8a6f-6c94-4c93-9160-05de5c009ba7.gif">
