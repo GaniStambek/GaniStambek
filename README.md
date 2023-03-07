@@ -40,5 +40,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganistambek&show_icons=true&locale=en&layout=compact" alt="ganistambek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganistambek&show_icons=true&locale=en" alt="ganistambek" /></p>
-![bender-robot-moving-yda1a8mnd38w577z](https://user-images.githubusercontent.com/124422266/222640385-7823dbf1-faa8-4164-8b51-3c96db5f4712.gif)
+
