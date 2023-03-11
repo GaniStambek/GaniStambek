@@ -42,29 +42,56 @@
 
 
 
+countdown(
+  minutes = 1L,
+  seconds = 0L,
+  ...,
+  id = NULL,
+  class = NULL,
+  style = NULL,
+  play_sound = FALSE,
+  font_size = "3rem",
+  margin = "0.6em",
+  padding = "10px 15px",
+  bottom = if (is.null(top)) "0",
+  right = if (is.null(left)) "0",
+  top = NULL,
+  left = NULL,
+  warn_when = 0L,
+  update_every = 1L,
+  blink_colon = update_every > 1L,
+  start_immediately = FALSE,
+  box_shadow = "0px 4px 10px 0px rgba(50, 50, 50, 0.4)",
+  border_width = "3px",
+  border_radius = "15px",
+  line_height = "1",
+  color_border = "#ddd",
+  color_background = "inherit",
+  color_text = "inherit",
+  color_running_background = "#43AC6A",
+  color_running_border = prismatic::clr_darken(color_running_background, 0.1),
+  color_running_text = NULL,
+  color_finished_background = "#F04124",
+  color_finished_border = prismatic::clr_darken(color_finished_background, 0.1),
+  color_finished_text = NULL,
+  color_warning_background = "#E6C229",
+  color_warning_border = prismatic::clr_darken(color_warning_background, 0.1),
+  color_warning_text = NULL
+)
 
-function startTimer(duration, display) {
-    var timer = duration, minutes, seconds;
-    setInterval(function () {
-        minutes = parseInt(timer / 60, 10)
-        seconds = parseInt(timer % 60, 10);
-
-        minutes = minutes < 10 ? "0" + minutes : minutes;
-        seconds = seconds < 10 ? "0" + seconds : seconds;
-
-        display.textContent = minutes + ":" + seconds;
-
-        if (--timer < 0) {
-            timer = duration;
-        }
-    }, 1000);
-}
-
-window.onload = function () {
-    var fiveMinutes = 60 * 5,
-        display = document.querySelector('#time');
-    startTimer(fiveMinutes, display);
-};
-<body>
-    <div>Stage one ends in <span id="time">05:00</span> minutes!</div>
-</body>
+countdown_fullscreen(
+  minutes = 1,
+  seconds = 0,
+  ...,
+  class = NULL,
+  start_immediately = FALSE,
+  font_size = "30vw",
+  border_width = "0",
+  border_radius = "0",
+  margin = "0",
+  padding = "0",
+  top = 0,
+  right = 0,
+  bottom = 0,
+  left = 0
+)
