@@ -1,1 +1,67 @@
-![Qazaq_Nomad_QA Software_Engineer (1)](https://user-images.githubusercontent.com/124422266/222557679-7c2623c3-c94f-4189-8d53-f4246baaf9eb.png)
+
+import time
+import random
+from selenium.webdriver.common.by import By
+from selenium import webdriver
+from faker import Faker
+fake = Faker()
+
+from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import WebDriverException as WDE
+
+
+driver = webdriver.Chrome()
+driver.get("https://qasvus.wordpress.com")
+driver.maximize_window()
+driver.minimize_window()
+driver.maximize_window()
+
+# driver.find_element(By.NAME, "q").send_keys("https://qasvus.wordpress.com")
+driver.implicitly_wait(2)
+
+driver.find_element(By.XPATH, "//header/div[1]/div[1]/p[1]/a[1]").click()
+time.sleep(3)
+
+print(driver.find_element(By.TAG_NAME, "img").get_attribute("src"))
+print(driver.title)
+print(driver.current_url)
+
+#driver.find_element(By.NAME, "California Real Estate").click()
+
+try:
+    assert driver.title == "California Real Estate!"
+    print("Title is Correct. Current Title is:", driver.title)
+except AssertionError:
+    print("Title is different. Current Title is:", driver.title)
+
+driver.find_element(By.XPATH, "//header/div[1]/div[1]/p[1]/a[1]").click()
+titleBasicPlanPage = "California Real Estate"
+assert titleBasicPlanPage in driver.title
+
+SCROLL_PAUSE_TIME = 2
+driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
+time.sleep(SCROLL_PAUSE_TIME)
+
+driver.find_element(By.XPATH, "//h2[@id='send-us-a-message']")
+
+name = driver.find_element(By.ID, "g2-name")
+name.send_keys(fake.name())
+
+random_email = str(random.randint(0, 99999)) + "myemail" + "@example.com"
+
+email = driver.find_element(By.ID, "g2-email")
+email.send_keys(fake.email())
+
+message = driver.find_element(By.ID, "contact-form-comment-g2-message")
+message.send_keys("This is a testing message. Hopefully, you will receive it!")
+driver.find_element(By.XPATH, "//button[contains(text(),'Submit')]").click()
+
+driver.find_element(By.XPATH, "//a[contains(text(),'Go back')]").click()
+
+
+driver.find_element(By.XPATH, "//button[contains(text(),'Submit')]")
+print("Submit button is present")
+
+# driver.find_element(By.XPATH, "//h2[@id='send-us-a-message']").send_keys(Keys.PAGE_DOWN)
+# driver.find_element(By.XPATH, "//h2[@id='send-us-a-message']").send_keys(Keys.PAGE_DOWN)
+driver.quit()
